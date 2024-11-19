@@ -56,7 +56,7 @@
 
 ۱. **قالب رو با دستور زیر دانلود کنید**
    ```sh
-   sudo wget -N -P /var/lib/marzneshin/templates/subscription/ https://github.com/MatinDehghanian/MarzViteTemplate/releases/download/v.1.1/index.html
+   sudo wget -N -P /var/lib/marzneshin/templates/subscription/ https://github.com/Abbas24/MarzViteTemplate/releases/download/v.1.1/index.html
    ```
 
 ۲. **دستورات زیر رو تو ترمینال سرورتون بزنید**
